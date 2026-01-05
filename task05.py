@@ -6,3 +6,4 @@ car = {
 
 year = car.get("year", "Mavjud emas")
 print(year)
+ 

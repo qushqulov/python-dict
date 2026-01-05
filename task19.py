@@ -4,4 +4,4 @@ for score in scores.values():
         
         add += score
 
-print(add)
+print(add) 

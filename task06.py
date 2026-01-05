@@ -10,4 +10,4 @@ kalit = input("Mahsulot nomini kiriting: ").lower()
 if kalit in mahsulotlar:
     print(f"{kalit.capitalize()}ning narxi: {mahsulotlar[kalit]} so'm")
 else:
-    print()
+    print() 

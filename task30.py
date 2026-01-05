@@ -5,7 +5,6 @@ def filter_non_zero(d):
             result[k] = v
     return result
 
-
 data = {
     "a": 0,
     "b": 3,

@@ -12,7 +12,6 @@ def group_by_age(people):
 
     return result
 
-
 people = [
     {"name": "Ali", "age": 20},
     {"name": "Vali", "age": 21},

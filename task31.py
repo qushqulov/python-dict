@@ -5,7 +5,6 @@ def count_letters(text):
             result[ch] = result.get(ch, 0) + 1
     return result
 
-
 text = "assalomu alaykum"
 counts = count_letters(text)
 print(counts)

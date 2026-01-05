@@ -7,3 +7,4 @@ person = {
 age = person.pop("age")
 print(age)
 print(person)
+ 

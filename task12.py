@@ -6,3 +6,4 @@ if product not in inventory:
     inventory[product] = 0
 
 print(inventory)
+ 

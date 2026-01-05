@@ -5,7 +5,7 @@ def most_common_char(text: str) -> str:
     for i in text:
         if text.count(i) > text.count(most_char):
             most_char = i
-        
+    
     return most_char
 
 text = 'Ali Valiyev'
